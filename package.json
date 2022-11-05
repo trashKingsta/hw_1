@@ -1,0 +1,8 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "author": "arturshcharbovich",
+  "license": "MIT"
+}
